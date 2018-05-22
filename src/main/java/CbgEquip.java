@@ -60,16 +60,9 @@ public class CbgEquip {
             Document document = Jsoup.connect(equip_detail_url).get();
             System.out.println("Url Title : " + document.title());
 
-            String text = document.body().html();
+            Element elementDiv = document.getElementById("equip_desc_value");
+            String var = elementDiv.text();
 
-
-            System.out.println(text);
-
-//            Element elementDiv = document.getElementById("Order");
-//            Elements elements = elementDiv.getElementsByTag("br");
-//            for (Element element: elements) {
-//                System.out.println(element.text());
-//            }
         } catch (IOException e) {
             e.printStackTrace();
         }
