@@ -1,3 +1,9 @@
+import com.gargoylesoftware.htmlunit.BrowserVersion;
+import com.gargoylesoftware.htmlunit.WebClient;
+import com.gargoylesoftware.htmlunit.html.DomNodeList;
+import com.gargoylesoftware.htmlunit.html.HtmlDivision;
+import com.gargoylesoftware.htmlunit.html.HtmlElement;
+import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import com.google.gson.Gson;
 import gson.GsonEquipDetail;
 import gson.GsonEquipItem;
@@ -57,11 +63,17 @@ public class CbgEquip {
 
     public void parseEquipDetailUrl(String equip_detail_url) {
         try {
-            Document document = Jsoup.connect(equip_detail_url).get();
-            System.out.println("Url Title : " + document.title());
+            WebClient webClient = new WebClient(BrowserVersion.CHROME);
+            HtmlPage htmlPage = webClient.getPage(equip_detail_url);
+            String html = htmlPage.asXml();
+            Document document = Jsoup.parse(html);
 
-            Element elementDiv = document.getElementById("equip_desc_value");
-            String var = elementDiv.text();
+            Element elementDiv = document.getElementById("equip_detail_description");
+            Elements elements = elementDiv.getElementsByTag("span");
+            for (Element element : elements) {
+                String var = element.text();
+                System.out.println(var);
+            }
 
         } catch (IOException e) {
             e.printStackTrace();
