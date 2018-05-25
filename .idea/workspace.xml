@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c68a44c-0020-4797-bf37-aeda1aecbcd2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Model/EquipInfo.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/CbgEquip.class" afterPath="$PROJECT_DIR$/out/production/classes/CbgEquip.class" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CbgEquip.java" afterPath="$PROJECT_DIR$/src/main/java/CbgEquip.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaDemo.java" afterPath="$PROJECT_DIR$/src/main/java/JavaDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -33,69 +35,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="JavaDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="262">
+              <caret line="75" column="51" lean-forward="false" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1526892128798" expanded="true" signature="974:1034" ph="INSERT INTO cbg_equip... " />
-                <marker date="1526892128798" expanded="true" signature="974:1064" ph="INSERT INTO cbg_equip... " />
-                <marker date="1526892128798" expanded="true" signature="1223:1275" ph="SELECT id, e... CBG" />
-                <marker date="1526892128798" expanded="true" signature="1223:1284" ph="SELECT id, e... cbg_equip" />
-                <marker date="1526892128798" expanded="true" signature="1223:1286" ph="SELECT id, e... cbg" />
+                <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
+                <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
+                <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
+                <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CbgEquip.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ResultSet.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/sql/ResultSet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CbgEquip.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CbgEquip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="67" column="43" lean-forward="true" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
+            <state relative-caret-position="250">
+              <caret line="88" column="65" lean-forward="false" selection-start-line="88" selection-start-column="65" selection-end-line="88" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#733#734#0" expanded="true" />
-                <element signature="e#771#772#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <marker date="1527233361554" expanded="true" signature="2716:5842" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DomNode.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.30/14848af415c2aba067011eafb7db05a39798d942/htmlunit-2.30-sources.jar!/com/gargoylesoftware/htmlunit/html/DomNode.java">
+      <file leaf-file-name="Elements.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/select/Elements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="865" column="18" lean-forward="false" selection-start-line="865" selection-start-column="18" selection-end-line="865" selection-end-column="18" />
-              <folding>
-                <element signature="e#28103#28104#0" expanded="true" />
-                <element signature="e#28130#28131#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DomElement.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.30/14848af415c2aba067011eafb7db05a39798d942/htmlunit-2.30-sources.jar!/com/gargoylesoftware/htmlunit/html/DomElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="747" column="42" lean-forward="true" selection-start-line="747" selection-start-column="42" selection-end-line="747" selection-end-column="42" />
-              <folding>
-                <element signature="e#27234#27235#0" expanded="true" />
-                <element signature="e#27288#27289#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Element.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/nodes/Element.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="1023" column="18" lean-forward="false" selection-start-line="1023" selection-start-column="18" selection-end-line="1023" selection-end-column="18" />
+            <state relative-caret-position="187">
+              <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="39" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GsonEquipDetail.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipDetail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EquipInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Model/EquipInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="826" column="20" lean-forward="false" selection-start-line="826" selection-start-column="20" selection-end-line="826" selection-end-column="20" />
+              <folding>
+                <element signature="e#25275#25276#0" expanded="true" />
+                <element signature="e#25317#25318#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,28 +134,8 @@
       <file leaf-file-name="GsonEquipItem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gson.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.4/6b1d345789e396d4342821ce01ddfb11dbdd50cc/gson-2.8.4-sources.jar!/com/google/gson/Gson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8806">
-              <caret line="583" column="72" lean-forward="false" selection-start-line="583" selection-start-column="66" selection-end-line="583" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            <state relative-caret-position="119">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -169,6 +170,9 @@
       <find>gson</find>
       <find>jsonString</find>
       <find>htmlElement</find>
+      <find>shiPin</find>
+      <find>resultSet</find>
+      <find>fatherTag</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -534,10 +538,12 @@
         <option value="$PROJECT_DIR$/src/main/java/gson/EquipItem.java" />
         <option value="$PROJECT_DIR$/src/main/java/gson/GsonEquipItem.java" />
         <option value="$PROJECT_DIR$/src/main/java/gson/GsonEquipDetail.java" />
-        <option value="$PROJECT_DIR$/src/main/java/JavaDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/gson/GsonEquipUrlDetail.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/EquipInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/EquipInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/CbgEquip.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaDemo.java" />
       </list>
     </option>
   </component>
@@ -548,10 +554,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="480" />
-    <option name="y" value="194" />
-    <option name="width" value="1228" />
-    <option name="height" value="702" />
+    <option name="y" value="120" />
+    <option name="width" value="1218" />
+    <option name="height" value="701" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -569,6 +574,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -607,6 +613,14 @@
               <item name="FamgyJavaDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="FamgyJavaDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FamgyJavaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FamgyJavaDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -618,7 +632,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -759,24 +772,26 @@
       <workItem from="1526614458667" duration="8312000" />
       <workItem from="1526869634139" duration="19145000" />
       <workItem from="1526974550602" duration="5435000" />
-      <workItem from="1527056588235" duration="2330000" />
+      <workItem from="1527056588235" duration="2334000" />
+      <workItem from="1527212100707" duration="14296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40291000" />
+    <option name="totallyTimeSpent" value="54591000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1928" height="1084" extended-state="7" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5332226" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39362794" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39979446" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17604166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -785,8 +800,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27749228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40184996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -806,41 +821,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/CbgEquip.java</url>
-          <line>70</line>
+          <url>file://$PROJECT_DIR$/src/main/java/JavaDemo.java</url>
+          <line>54</line>
           <properties />
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/nodes/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17391">
-          <caret line="1023" column="18" lean-forward="false" selection-start-line="1023" selection-start-column="18" selection-end-line="1023" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.4/6b1d345789e396d4342821ce01ddfb11dbdd50cc/gson-2.8.4-sources.jar!/com/google/gson/Gson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8806">
@@ -871,8 +862,9 @@
           <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <marker date="1527233361554" expanded="true" signature="2716:5842" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -883,11 +875,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1526892128798" expanded="true" signature="974:1034" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="974:1064" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="1223:1275" ph="SELECT id, e... CBG" />
-            <marker date="1526892128798" expanded="true" signature="1223:1284" ph="SELECT id, e... cbg_equip" />
-            <marker date="1526892128798" expanded="true" signature="1223:1286" ph="SELECT id, e... cbg" />
+            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
+            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>
@@ -898,8 +891,9 @@
           <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <marker date="1527233361554" expanded="true" signature="2716:5842" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -962,11 +956,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1526892128798" expanded="true" signature="974:1034" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="974:1064" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="1223:1275" ph="SELECT id, e... CBG" />
-            <marker date="1526892128798" expanded="true" signature="1223:1284" ph="SELECT id, e... cbg_equip" />
-            <marker date="1526892128798" expanded="true" signature="1223:1286" ph="SELECT id, e... cbg" />
+            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
+            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>
@@ -999,11 +994,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1526892128798" expanded="true" signature="974:1034" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="974:1064" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="1223:1275" ph="SELECT id, e... CBG" />
-            <marker date="1526892128798" expanded="true" signature="1223:1284" ph="SELECT id, e... cbg_equip" />
-            <marker date="1526892128798" expanded="true" signature="1223:1286" ph="SELECT id, e... cbg" />
+            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
+            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>
@@ -1036,11 +1032,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1526892128798" expanded="true" signature="974:1034" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="974:1064" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="1223:1275" ph="SELECT id, e... CBG" />
-            <marker date="1526892128798" expanded="true" signature="1223:1284" ph="SELECT id, e... cbg_equip" />
-            <marker date="1526892128798" expanded="true" signature="1223:1286" ph="SELECT id, e... cbg" />
+            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
+            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>
@@ -1059,11 +1056,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1526892128798" expanded="true" signature="974:1034" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="974:1064" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="1223:1275" ph="SELECT id, e... CBG" />
-            <marker date="1526892128798" expanded="true" signature="1223:1284" ph="SELECT id, e... cbg_equip" />
-            <marker date="1526892128798" expanded="true" signature="1223:1286" ph="SELECT id, e... cbg" />
+            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
+            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>
@@ -1080,13 +1078,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/sql/ResultSet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="76" column="8" lean-forward="false" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1152,18 +1143,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipDetail.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.30/14848af415c2aba067011eafb7db05a39798d942/htmlunit-2.30-sources.jar!/com/gargoylesoftware/htmlunit/html/DomNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="12767">
+          <caret line="865" column="18" lean-forward="false" selection-start-line="865" selection-start-column="18" selection-end-line="865" selection-end-column="18" />
+          <folding>
+            <element signature="e#28103#28104#0" expanded="false" />
+            <element signature="e#28130#28131#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipItem.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.30/14848af415c2aba067011eafb7db05a39798d942/htmlunit-2.30-sources.jar!/com/gargoylesoftware/htmlunit/html/DomElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        <state relative-caret-position="11152">
+          <caret line="747" column="42" lean-forward="false" selection-start-line="747" selection-start-column="42" selection-end-line="747" selection-end-column="42" />
+          <folding>
+            <element signature="e#27234#27235#0" expanded="false" />
+            <element signature="e#27288#27289#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/nodes/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16082">
+          <caret line="1023" column="18" lean-forward="false" selection-start-line="1023" selection-start-column="18" selection-end-line="1023" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1176,14 +1181,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1192,18 +1189,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaDemo.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="826" column="20" lean-forward="false" selection-start-line="826" selection-start-column="20" selection-end-line="826" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1526892128798" expanded="true" signature="974:1034" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="974:1064" ph="INSERT INTO cbg_equip... " />
-            <marker date="1526892128798" expanded="true" signature="1223:1275" ph="SELECT id, e... CBG" />
-            <marker date="1526892128798" expanded="true" signature="1223:1284" ph="SELECT id, e... cbg_equip" />
-            <marker date="1526892128798" expanded="true" signature="1223:1286" ph="SELECT id, e... cbg" />
+            <element signature="e#25275#25276#0" expanded="true" />
+            <element signature="e#25317#25318#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1215,44 +1224,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.30/14848af415c2aba067011eafb7db05a39798d942/htmlunit-2.30-sources.jar!/com/gargoylesoftware/htmlunit/html/DomNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipDetail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="865" column="18" lean-forward="false" selection-start-line="865" selection-start-column="18" selection-end-line="865" selection-end-column="18" />
-          <folding>
-            <element signature="e#28103#28104#0" expanded="true" />
-            <element signature="e#28130#28131#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.30/14848af415c2aba067011eafb7db05a39798d942/htmlunit-2.30-sources.jar!/com/gargoylesoftware/htmlunit/html/DomElement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/EquipInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="747" column="42" lean-forward="true" selection-start-line="747" selection-start-column="42" selection-end-line="747" selection-end-column="42" />
-          <folding>
-            <element signature="e#27234#27235#0" expanded="true" />
-            <element signature="e#27288#27289#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/nodes/Element.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/select/Elements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="1023" column="18" lean-forward="false" selection-start-line="1023" selection-start-column="18" selection-end-line="1023" selection-end-column="18" />
+        <state relative-caret-position="187">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/sql/ResultSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CbgEquip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="67" column="43" lean-forward="true" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
+        <state relative-caret-position="250">
+          <caret line="88" column="65" lean-forward="false" selection-start-line="88" selection-start-column="65" selection-end-line="88" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <marker date="1527233361554" expanded="true" signature="2716:5842" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="75" column="51" lean-forward="false" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
+            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>

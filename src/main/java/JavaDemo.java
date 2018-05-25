@@ -1,4 +1,7 @@
+import Model.EquipInfo;
+
 import java.sql.*;
+import java.util.ArrayList;
 import java.util.Properties;
 
 public class JavaDemo {
@@ -18,20 +21,56 @@ public class JavaDemo {
             Connection conn = DriverManager.getConnection("jdbc:mariadb://localhost:3306/cbg", p);
             System.out.println("Connect ok!");
 
-            /* Query info*/
             System.out.println("Create Statement");
             Statement statement = conn.createStatement();
             System.out.println("statement ok!");
 
-//            System.out.println("Execute Update");
-//            statement.executeUpdate("INSERT INTO cbg_equip (equip_name, game_ordersn, server_id) VALUE ('北冥龙军', 'ssppppp', 128)");
-//            System.out.println("Update ok");
 
-            System.out.println("Execute Query");
+            /* Update database */
+            CbgEquip cbgEquip = new CbgEquip();
+            final String urlString = "http://xy2-android2.cbg.163.com/cbg-center/query.py?page=1&orderby=selling_time+DESC&equip_type=103920&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville";
+            ArrayList<EquipInfo> equipInfoList = cbgEquip.requestEquipItem(urlString);
+
+            for (EquipInfo equipInfo : equipInfoList) {
+                System.out.println("\n===Execute Update===");
+                System.out.println(equipInfo.equip_name);
+                System.out.println(equipInfo.growthRate);
+                System.out.println(equipInfo.xueChuZhi);
+                System.out.println(equipInfo.gongChuZhi);
+                System.out.println(equipInfo.faChuZhi);
+                System.out.println(equipInfo.suChuZhi);
+                System.out.println(equipInfo.chanChuZhi);
+                System.out.println(equipInfo.equip_detail_url);
+
+                String valueString = "('" + equipInfo.equip_name + "','"
+                        + equipInfo.game_ordersn + "',"
+                        + equipInfo.equip_serverid + ",'"
+                        + equipInfo.growthRate + "','"
+                        + equipInfo.xueChuZhi + "','"
+                        + equipInfo.gongChuZhi + "','"
+                        + equipInfo.faChuZhi + "','"
+                        + equipInfo.suChuZhi + "','"
+                        + equipInfo.chanChuZhi + "','"
+                        + equipInfo.equip_detail_url +"')";
+                statement.executeUpdate("INSERT INTO cbg_equip (equip_name, " +
+                        "game_ordersn, " +
+                        "server_id, " +
+                        "grouth_rate, " +
+                        "born_xue, " +
+                        "born_gong, " +
+                        "born_fa, " +
+                        "born_su, " +
+                        "born_chan, " +
+                        "detail_url) VALUE " + valueString);
+                System.out.println("===Update ok===\n");
+            }
+
+            /* Query info*/
+            System.out.println("\nExecute Query");
             ResultSet resultSet = statement.executeQuery("SELECT id, equip_name, game_ordersn, server_id FROM cbg_equip");
-            System.out.println("Query ok");
+            System.out.println("Query ok\n");
 
-            System.out.println("Show Result");
+            System.out.println("\n\nShow Result");
             while (resultSet.next()) {
                 int id = resultSet.getInt("id");
                 String equip_name = resultSet.getString("equip_name");
@@ -44,7 +83,6 @@ public class JavaDemo {
                 System.out.println(", 服务器id : " + server_id);
             }
 
-
             /* Close */
             System.out.println("Close ResultSet");
             resultSet.close();
@@ -52,10 +90,6 @@ public class JavaDemo {
             statement.close();
             System.out.println("Close Connection");
             conn.close();
-
-
-            CbgEquip cbgEquip = new CbgEquip();
-            cbgEquip.requestEquipItem("http://xy2-android2.cbg.163.com/cbg-center/query.py?page=1&orderby=selling_time+DESC&equip_type=103920&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (SQLException e) {
