@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c68a44c-0020-4797-bf37-aeda1aecbcd2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Model/EquipInfo.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/CbgEquip.class" afterPath="$PROJECT_DIR$/out/production/classes/CbgEquip.class" />
+      <change beforePath="$PROJECT_DIR$/cbg.sql" afterPath="$PROJECT_DIR$/cbg.sql" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CbgEquip.java" afterPath="$PROJECT_DIR$/src/main/java/CbgEquip.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/JavaDemo.java" afterPath="$PROJECT_DIR$/src/main/java/JavaDemo.java" />
     </list>
@@ -35,64 +34,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JavaDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="75" column="51" lean-forward="false" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="51" />
+            <state relative-caret-position="359">
+              <caret line="38" column="40" lean-forward="true" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
-                <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
-                <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
-                <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
-                <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
-                <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
+                <marker date="1527763142701" expanded="true" signature="2251:2782" ph="('missingVal... " />
+                <marker date="1527763142701" expanded="true" signature="2822:3253" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:3363" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:3364" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:3401" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:3441" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:3515" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:3516" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:3738" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:3956" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:4032" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:4038" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="2822:4072" ph="INSERT INTO cbg_equip... " />
+                <marker date="1527763142701" expanded="true" signature="4373:4421" ph="SELECT id, e... CBG" />
+                <marker date="1527763142701" expanded="true" signature="4373:4430" ph="SELECT id, e... cbg_equip" />
+                <marker date="1527763142701" expanded="true" signature="4373:4432" ph="SELECT id, e... cbg" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResultSet.class" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/sql/ResultSet.class">
+      <file leaf-file-name="Statement.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/sql/Statement.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="184">
+              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CbgEquip.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CbgEquip.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CbgEquip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="88" column="65" lean-forward="false" selection-start-line="88" selection-start-column="65" selection-end-line="88" selection-end-column="65" />
+            <state relative-caret-position="378">
+              <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#785#786#0" expanded="true" />
                 <element signature="e#823#824#0" expanded="true" />
-                <marker date="1527233361554" expanded="true" signature="2716:5842" ph="{...}" />
+                <marker date="1527763142741" expanded="true" signature="2732:5858" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Elements.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/select/Elements.java">
+      <file leaf-file-name="OkHttpClient.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/e99b7b608968f16b07104b93e62cb90701174d0/okhttp-3.10.0-sources.jar!/okhttp3/OkHttpClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GsonEquipDetail.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipDetail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="233">
+              <caret line="428" column="24" lean-forward="false" selection-start-line="428" selection-start-column="24" selection-end-line="428" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -111,12 +110,9 @@
       <file leaf-file-name="String.class" pinned="false" current-in-tab="false">
         <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="12988">
               <caret line="826" column="20" lean-forward="false" selection-start-line="826" selection-start-column="20" selection-end-line="826" selection-end-column="20" />
-              <folding>
-                <element signature="e#25275#25276#0" expanded="true" />
-                <element signature="e#25317#25318#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,7 +120,7 @@
       <file leaf-file-name="HtmlDivision.java" pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.30/14848af415c2aba067011eafb7db05a39798d942/htmlunit-2.30-sources.jar!/com/gargoylesoftware/htmlunit/html/HtmlDivision.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
+            <state relative-caret-position="238">
               <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
               <folding />
             </state>
@@ -134,8 +130,8 @@
       <file leaf-file-name="GsonEquipItem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="136">
+              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -173,6 +169,7 @@
       <find>shiPin</find>
       <find>resultSet</find>
       <find>fatherTag</find>
+      <find>valueString</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -553,7 +550,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="120" />
     <option name="width" value="1218" />
     <option name="height" value="701" />
@@ -574,7 +571,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -631,6 +627,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -774,14 +771,16 @@
       <workItem from="1526974550602" duration="5435000" />
       <workItem from="1527056588235" duration="2334000" />
       <workItem from="1527212100707" duration="14296000" />
+      <workItem from="1527480141642" duration="579000" />
+      <workItem from="1527757982937" duration="5337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54591000" />
+    <option name="totallyTimeSpent" value="60507000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="7" />
+    <frame x="0" y="120" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -791,10 +790,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5332226" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39979446" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24974306" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17604166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.246875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -819,35 +818,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/JavaDemo.java</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="18" />
+      <option name="time" value="20" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.4/6b1d345789e396d4342821ce01ddfb11dbdd50cc/gson-2.8.4-sources.jar!/com/google/gson/Gson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8806">
-          <caret line="583" column="72" lean-forward="false" selection-start-line="583" selection-start-column="66" selection-end-line="583" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -864,7 +839,7 @@
             <element signature="imports" expanded="true" />
             <element signature="e#785#786#0" expanded="true" />
             <element signature="e#823#824#0" expanded="true" />
-            <marker date="1527233361554" expanded="true" signature="2716:5842" ph="{...}" />
+            <marker date="1527763142741" expanded="true" signature="2732:5858" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -875,12 +850,22 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
-            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
-            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
+            <marker date="1527763142701" expanded="true" signature="2251:2782" ph="('missingVal... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3253" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3363" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3364" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3401" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3441" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3515" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3516" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3738" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3956" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4032" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4038" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4072" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="4373:4421" ph="SELECT id, e... CBG" />
+            <marker date="1527763142701" expanded="true" signature="4373:4430" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527763142701" expanded="true" signature="4373:4432" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>
@@ -893,7 +878,7 @@
             <element signature="imports" expanded="true" />
             <element signature="e#785#786#0" expanded="true" />
             <element signature="e#823#824#0" expanded="true" />
-            <marker date="1527233361554" expanded="true" signature="2716:5842" ph="{...}" />
+            <marker date="1527763142741" expanded="true" signature="2732:5858" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -956,12 +941,22 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
-            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
-            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
+            <marker date="1527763142701" expanded="true" signature="2251:2782" ph="('missingVal... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3253" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3363" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3364" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3401" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3441" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3515" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3516" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3738" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3956" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4032" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4038" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4072" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="4373:4421" ph="SELECT id, e... CBG" />
+            <marker date="1527763142701" expanded="true" signature="4373:4430" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527763142701" expanded="true" signature="4373:4432" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>
@@ -994,12 +989,22 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
-            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
-            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
+            <marker date="1527763142701" expanded="true" signature="2251:2782" ph="('missingVal... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3253" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3363" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3364" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3401" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3441" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3515" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3516" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3738" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3956" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4032" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4038" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4072" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="4373:4421" ph="SELECT id, e... CBG" />
+            <marker date="1527763142701" expanded="true" signature="4373:4430" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527763142701" expanded="true" signature="4373:4432" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>
@@ -1032,12 +1037,22 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
-            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
-            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
+            <marker date="1527763142701" expanded="true" signature="2251:2782" ph="('missingVal... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3253" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3363" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3364" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3401" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3441" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3515" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3516" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3738" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3956" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4032" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4038" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4072" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="4373:4421" ph="SELECT id, e... CBG" />
+            <marker date="1527763142701" expanded="true" signature="4373:4430" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527763142701" expanded="true" signature="4373:4432" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>
@@ -1056,12 +1071,22 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
-            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
-            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
+            <marker date="1527763142701" expanded="true" signature="2251:2782" ph="('missingVal... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3253" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3363" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3364" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3401" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3441" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3515" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3516" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3738" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3956" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4032" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4038" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4072" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="4373:4421" ph="SELECT id, e... CBG" />
+            <marker date="1527763142701" expanded="true" signature="4373:4430" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527763142701" expanded="true" signature="4373:4432" ph="SELECT id, e... cbg" />
           </folding>
         </state>
       </provider>
@@ -1109,13 +1134,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/e99b7b608968f16b07104b93e62cb90701174d0/okhttp-3.10.0-sources.jar!/okhttp3/OkHttpClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5321">
-          <caret line="428" column="24" lean-forward="false" selection-start-line="428" selection-start-column="24" selection-end-line="428" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/e99b7b608968f16b07104b93e62cb90701174d0/okhttp-3.10.0-sources.jar!/okhttp3/Call.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -1128,7 +1146,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,10 +1153,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
           <caret line="71" column="19" lean-forward="false" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
-          <folding>
-            <element signature="e#2000#2001#0" expanded="false" />
-            <element signature="e#2062#2063#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1147,10 +1160,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12767">
           <caret line="865" column="18" lean-forward="false" selection-start-line="865" selection-start-column="18" selection-end-line="865" selection-end-column="18" />
-          <folding>
-            <element signature="e#28103#28104#0" expanded="false" />
-            <element signature="e#28130#28131#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1158,10 +1167,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11152">
           <caret line="747" column="42" lean-forward="false" selection-start-line="747" selection-start-column="42" selection-end-line="747" selection-end-column="42" />
-          <folding>
-            <element signature="e#27234#27235#0" expanded="false" />
-            <element signature="e#27288#27289#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1169,7 +1174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16082">
           <caret line="1023" column="18" lean-forward="false" selection-start-line="1023" selection-start-column="18" selection-end-line="1023" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1177,7 +1181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8806">
           <caret line="583" column="72" lean-forward="false" selection-start-line="583" selection-start-column="66" selection-end-line="583" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1189,37 +1192,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/sql/ResultSet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="826" column="20" lean-forward="false" selection-start-line="826" selection-start-column="20" selection-end-line="826" selection-end-column="20" />
+        <state relative-caret-position="102">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding>
-            <element signature="e#25275#25276#0" expanded="true" />
-            <element signature="e#25317#25318#0" expanded="true" />
+            <marker date="1524839833000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1524839833000" expanded="false" signature="132:274" ph="..." />
+            <marker date="1524839833000" expanded="true" signature="1216:1234" ph="/**...*/" />
+            <marker date="1524839833000" expanded="true" signature="1598:1616" ph="/**...*/" />
+            <marker date="1524839833000" expanded="true" signature="2198:2216" ph="/**...*/" />
+            <marker date="1524839833000" expanded="true" signature="2598:2616" ph="/**...*/" />
+            <marker date="1524839833000" expanded="true" signature="12689:12779" ph="{...}" />
+            <marker date="1524839833000" expanded="true" signature="12881:12971" ph="{...}" />
+            <marker date="1524839833000" expanded="true" signature="13060:13150" ph="{...}" />
+            <marker date="1524839833000" expanded="true" signature="13242:13332" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipItem.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/select/Elements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.30/14848af415c2aba067011eafb7db05a39798d942/htmlunit-2.30-sources.jar!/com/gargoylesoftware/htmlunit/html/HtmlDivision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1227,7 +1222,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipDetail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="38" />
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -1240,47 +1235,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/871302b15d8cee9bfb393c4f1d0386b17646d8d1/jsoup-1.11.3-sources.jar!/org/jsoup/select/Elements.java">
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="39" />
+        <state relative-caret-position="12988">
+          <caret line="826" column="20" lean-forward="false" selection-start-line="826" selection-start-column="20" selection-end-line="826" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/sql/ResultSet.class">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.30/14848af415c2aba067011eafb7db05a39798d942/htmlunit-2.30-sources.jar!/com/gargoylesoftware/htmlunit/html/HtmlDivision.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="238">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CbgEquip.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="88" column="65" lean-forward="false" selection-start-line="88" selection-start-column="65" selection-end-line="88" selection-end-column="65" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/sql/Statement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/e99b7b608968f16b07104b93e62cb90701174d0/okhttp-3.10.0-sources.jar!/okhttp3/OkHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="428" column="24" lean-forward="false" selection-start-line="428" selection-start-column="24" selection-end-line="428" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <marker date="1527233361554" expanded="true" signature="2716:5842" ph="{...}" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="75" column="51" lean-forward="false" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="51" />
+        <state relative-caret-position="359">
+          <caret line="38" column="40" lean-forward="true" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1527233757243" expanded="true" signature="2018:2549" ph="('missingVal... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2994" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="2593:2995" ph="INSERT INTO cbg_equip... " />
-            <marker date="1527233757243" expanded="true" signature="3222:3274" ph="SELECT id, e... CBG" />
-            <marker date="1527233757243" expanded="true" signature="3222:3283" ph="SELECT id, e... cbg_equip" />
-            <marker date="1527233757243" expanded="true" signature="3222:3285" ph="SELECT id, e... cbg" />
+            <marker date="1527763142701" expanded="true" signature="2251:2782" ph="('missingVal... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3253" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3363" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3364" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3401" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3441" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3515" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3516" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3738" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:3956" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4032" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4038" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="2822:4072" ph="INSERT INTO cbg_equip... " />
+            <marker date="1527763142701" expanded="true" signature="4373:4421" ph="SELECT id, e... CBG" />
+            <marker date="1527763142701" expanded="true" signature="4373:4430" ph="SELECT id, e... cbg_equip" />
+            <marker date="1527763142701" expanded="true" signature="4373:4432" ph="SELECT id, e... cbg" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gson/GsonEquipItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CbgEquip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <marker date="1527763142741" expanded="true" signature="2732:5858" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -27,17 +27,18 @@ public class CbgEquip {
         this.gson = new Gson();
     }
 
-    public ArrayList<EquipInfo> requestEquipItem(String urlItem) {
-        ArrayList<EquipInfo> equipInfoList = new ArrayList<>();
+    public int requestEquipItem(String urlItem, ArrayList<EquipInfo> equipInfoList) {
         String jsonString = run(urlItem);
-
 
         if (jsonString.isEmpty() == true) {
             System.out.println("Error JsonString is null!");
-            return equipInfoList;
+            return -1;
         }
 
         GsonEquipItem gsonEquipItem = gson.fromJson(jsonString, GsonEquipItem.class);
+        if (gsonEquipItem.equip_list.size() <= 0) {
+            return -1;
+        }
 
         for (GsonEquipItem.Equip equip : gsonEquipItem.equip_list) {
             EquipInfo equipInfo = new EquipInfo();
@@ -48,7 +49,7 @@ public class CbgEquip {
             equipInfoList.add(equipInfo);
         }
 
-        return equipInfoList;
+        return 0;
     }
 
     /* http://xy2-android2.cbg.163.com/cbg-center/query.py?act=get_equip_detail&game_ordersn=112500FGF4&serverid=109 */

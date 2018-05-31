@@ -3,9 +3,8 @@ CREATE DATABASE cbg CHARACTER SET utf8;
 USE cbg;
 
 CREATE TABLE cbg_equip (
-	`id` int(11) auto_increment,
-	`equip_name` VARCHAR(50) NOT NULL,
 	`game_ordersn` VARCHAR(50) NOT NULL,
+	`equip_name` VARCHAR(50) NOT NULL,
 	`server_id` INT(11),
 	`grouth_rate` VARCHAR(50),
 	`born_xue` VARCHAR(50),
