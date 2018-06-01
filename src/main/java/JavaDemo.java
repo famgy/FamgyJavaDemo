@@ -31,10 +31,13 @@ public class JavaDemo {
 
             ArrayList<EquipInfo> equipInfoList = new ArrayList<>();
 
-            for (int page = 1; page < 1000; page++) {
+            /* 孔雀明王：103887 */
+            /* 北冥龙军：103920 */
+            /* 孟极： */
+            for (int page = 1; page < 20; page++) {
                 String urlString = "http://xy2-android2.cbg.163.com/cbg-center/query.py?page=" +
                         page +
-                        "&orderby=selling_time+DESC&equip_type=103920&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville";
+                        "&orderby=selling_time+DESC&equip_type=103887&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville";
 
                 if (cbgEquip.requestEquipItem(urlString, equipInfoList) < 0) {
                     break;

@@ -36,7 +36,18 @@ public class CbgEquip {
         }
 
         GsonEquipItem gsonEquipItem = gson.fromJson(jsonString, GsonEquipItem.class);
+        if (gsonEquipItem == null) {
+            System.out.println("Error gsonEquipItem is null!");
+            return -1;
+        }
+
+        if (gsonEquipItem.equip_list == null) {
+            System.out.println("Error gsonEquipItem.equip_list is null!");
+            return -1;
+        }
+
         if (gsonEquipItem.equip_list.size() <= 0) {
+            System.out.println("equip_list size is 0");
             return -1;
         }
 
@@ -65,6 +76,15 @@ public class CbgEquip {
         }
 
         GsonEquipDetail gsonEquipDetail = gson.fromJson(jsonString, GsonEquipDetail.class);
+        if (gsonEquipDetail == null) {
+            System.out.println("Error gsonEquipDetail is null!");
+            return;
+        }
+
+        if (gsonEquipDetail.equip == null){
+            System.out.println("Error gsonEquipDetail.equip is null!");
+            return;
+        }
 
         System.out.println("----");
         System.out.println("Equip WebUrl : " + gsonEquipDetail.equip.equip_detail_url);
@@ -87,6 +107,10 @@ public class CbgEquip {
             Document document = Jsoup.parse(html);
 
             Element elementDiv = document.getElementById("equip_detail_description");
+            if (elementDiv == null) {
+                System.out.println("Error JsonString is null!");
+            }
+
             Elements elements = elementDiv.getElementsByTag("span");
             equipInfo.equip_name = elements.get(1).text();
 
