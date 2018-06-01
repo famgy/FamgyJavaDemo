@@ -1,0 +1,119 @@
+http://xy2-android2.cbg.163.com/cbg-center/query.py
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?kindid=55&page=3&channel=ANDNETEASE&orderby=create_time+DESC&pass_fair_show=0&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?page=1&orderby=selling_time+DESC&equip_type=103920&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+
+
+
+北冥龙军  "equip_name": "\u5317\u51a5\u9f99\u541b"  http://res.xy2.cbg.163.com/images/role/pet/other/3920-6.gif
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?act=get_equip_detail&game_ordersn=112500FGF4&serverid=109&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+
+
+
+
+
+
+
+http://xy2-android2.cbg.163.com/cbg-center/search.py?act=overall_search_pet&has_color=1&kindid=41&orderby=price+ASC&price_max=30000000&skill_place_num=6&page=1&channel=ANDNETEASE&price_min=150000&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?page=1&equip_type=103920&has_color=1&skill_place_num=6&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+
+
+
+
+
+----------------
+北冥龙军  "equip_name": "\u5317\u51a5\u9f99\u541b"  http://res.xy2.cbg.163.com/images/role/pet/other/3920-6.gif
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?page=1&orderby=selling_time+DESC&equip_type=103920&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+----------------
+
+孔雀明王  "equip_name": "\u5b54\u96c0\u660e\u738b"  http://res.xy2.cbg.163.com/images/role/pet/other/3887-1.gif
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?page=1&orderby=selling_time+DESC&equip_type=103887&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+----------------
+
+乾元镜    "equip_name": "\u4e7e\u5143\u955c"       http://res.xy2.cbg.163.com/images/big/26016.jpg
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?page=1&orderby=selling_time+DESC&equip_type=26016&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+
+紫金铃   "equip_name": "\u7d2b\u91d1\u94c3"       http://res.xy2.cbg.163.com/images/big/26009.jpg
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?page=1&orderby=selling_time+DESC&equip_type=26009&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+
+
+---------
+
+
+商品详情   game_ordersn=112500FGF4    serverid=109
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?act=get_equip_detail&game_ordersn=112500FGF4&serverid=109&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?act=get_equip_detail&game_ordersn=108500DL9I&serverid=112&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
+
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?act=get_equip_detail&game_ordersn=108500DL9I&serverid=112
+
+
+
+
+https://www.bejson.com/jsonviewernew/
+
+https://www.jianshu.com/p/50fffbf21b39
+
+http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html
+
+http://www.runoob.com/java/java-mysql-connect.html
+
+https://www.yiibai.com/mariadb/
+
+https://blog.csdn.net/lujiachun1/article/details/78093043
+
+https://www.yiibai.com/jdbc/
+
+https://blog.csdn.net/huanbia/article/details/69084895
+
+
+本周工作：
+    1. 讨论和确定MSMSDK项目方案。
+    2. 总结java相关知识：线程池、gradle、jdbc、gson
+    3. 熟悉linux平台相关工具：s-nail、hexchat、ncat
+
+下周计划：
+   1. 实现MSMSDK项目底层相关代码。
+   2. 测试和对接 已完成功能 接口。
+   
+   
+   
+   <div id="equip_detail_description"><br><span style="color:#FFFFFF"></span><span style="color:#FFFFFF">北冥龙君   </span><span style="color:#EF6051">点化177级<br></span><span style="color:#FBFFC1">成长率 1.653 龙骨x3<br></span><span style="color:#7DDE8C">气血  63311</span><span style="color:#F6FCF5">( 56) </span><span style="color:#7DDE8C">攻击 62965</span><span style="color:#F6FCF5">( 402)<br></span><span style="color:#7DDE8C">法力  53432</span><span style="color:#F6FCF5">(  8) </span><span style="color:#7DDE8C">速度  1201</span><span style="color:#F6FCF5">( 162)<br></span><span style="color:#7DDE8C">禅定    177</span><span style="color:#F6FCF5">(  0) <br></span><span style="color:#D8AB6C">内　丹 浩然正气 点化184级<br></span><span style="color:#D8AB6C">　　　 暗渡陈仓 点化184级<br></span><span style="color:#D8AB6C">　　　 隔山打牛 点化183级<br></span><span style="color:#ACDBEE">炼妖次数 10<br></span><span style="color:#8EDEFF">抗封印: 30.0(</span><span style="color:#FFFFFF">30.0</span><span style="color:#8EDEFF">+0.0)<br></span><span style="color:#8EDEFF">抗混乱: 75.0(</span><span style="color:#FFFFFF">30.0</span><span style="color:#8EDEFF">+45.0)<br></span><span style="color:#8EDEFF">抗物理: 75.0   <br><br><br><br><br>天赋:一阶天赋<br>技能1:义之金叶神；技能2:高级分裂攻击<br>技能3:神工鬼力；技能4:仙风道骨<br><br></span><span style="color:#FFFF00">装备：<img style="width:20px;height:20px;vertical-align:bottom;" data_iconid="110000" src="http://res.xy2.cbg.163.com/images/equip_desc_icon/110000.jpg"> <img style="width:20px;height:20px;vertical-align:bottom;" data_iconid="110000" src="http://res.xy2.cbg.163.com/images/equip_desc_icon/110000.jpg"> <img style="width:20px;height:20px;vertical-align:bottom;" data_iconid="110000" src="http://res.xy2.cbg.163.com/images/equip_desc_icon/110000.jpg"> <br></span><span style="color:#FFFF00">觉醒技：</span><span style="color:#FFFFFF">   未觉醒<br></span><span style="color:#A49BC8">金:50 木: 0 水: 0 火: 0 土:50<br>该召唤兽为变色召唤兽<br></span></div>
+   
+   
+   
+    <textarea id="equip_desc_value" style="display:none">(["iFlyupFlag":0,"iType":3920,"equip":({"#W【等级】1级#r【装备部位】兽环#r#n#Y【等级需求】0转60级#r力量 +8#r 【品质】88/100#r【通灵】1/1000#r【耐久】490/500#r#n#G每回合HP +87#r 梅花三弄等级 +1#r #n#c00FCF0培养 0#r#n#r#c18CDCD未开启觉醒(开启铃、环、甲之觉醒，可领悟觉醒技)#r#n","#W【等级】1级#r【装备部位】兽铃#r#n#Y【等级需求】0转60级#r根骨 +4#r 【品质】81/100#r【通灵】1/1000#r【耐久】490/500#r#n#G附加魔法 +80#r 红颜白发等级 +1#r 乘风破浪等级 +1#r #n#c00FCF0培养 0#r#n#r#c18CDCD未开启觉醒(开启铃、环、甲之觉醒，可领悟觉醒技)#r#n","#W【等级】1级#r【装备部位】兽甲#r#n#Y【等级需求】0转60级#r力量 +9#r 【品质】97/100#r【通灵】1/1000#r【耐久】490/500#r#n#G万佛朝宗等级 +1#r 强力克木 +0.3%#r 被攻击时释放含情脉脉 +0.4%#r #n#c00FCF0培养 0#r#n#r#c18CDCD未开启觉醒(开启铃、环、甲之觉醒，可领悟觉醒技)#r#n",}),"cDesc":"#cFFFFFF北冥龙君   #cEF60513转160级#r#cFBFFC1成长率 1.623#r#c7DDE8C气血  70576#cF6FCF5( 48) #c7DDE8C攻击 69690#cF6FCF5( 400)#r#c7DDE8C法力  41628#cF6FCF5(  0) #c7DDE8C速度   519#cF6FCF5( 160)#r#cD8AB6C内　丹 隔山打牛 3转155级#r#cD8AB6C　　　 浩然正气 3转153级#r#cD8AB6C　　　 暗渡陈仓 3转132级#r#cACDBEE炼妖次数 11#r#c8EDEFF抗封印: 30.0(#cFFFFFF30.0#c8EDEFF+0.0)#r#c8EDEFF抗混乱: 75.0(#cFFFFFF30.0#c8EDEFF+45.0)#r#c8EDEFF抗物理: 75.0   #r#r#r#r#r技能1:义之金叶神；技能2:神工鬼力#r技能3:分裂攻击；#r#Y装备：#o25414 #o25420 #o25426 #r#Y觉醒技：#n   未觉醒#r#cA49BC8金:50 木: 0 水: 0 火: 0 土:50#r","iSpecial":0,])</textarea> 
+   
+   
+
+(["iFlyupFlag":1,"cDesc":"#cFFFFFF北冥龙君   #cEF6051点化144级#r#cFBFFC1成长率 1.575#r#c7DDE8C气血  40327#cF6FCF5( 48) #c7DDE8C攻击 49842#cF6FCF5( 400)#r#c7DDE8C法力  32659#cF6FCF5(  0) #c7DDE8C速度   478#cF6FCF5( 160)#r#c7DDE8C禅定    144#cF6FCF5(  0) #r#cD8AB6C内　丹 暗渡陈仓 3转169级#r#cD8AB6C　　　 浩然正气 3转169级#r#cD8AB6C　　　 隔山打牛 3转169级#r#cACDBEE炼妖次数 0#r#c8EDEFF抗封印: 30.0(#cFFFFFF30.0#c8EDEFF+0.0)#r#c8EDEFF抗混乱: 30.0(#cFFFFFF30.0#c8EDEFF+0.0)#r#r#r#r#r#r天赋:二阶天赋#r技能1:高级慈乌反哺；技能2:仙风道骨#r技能3:未开启；技能4:未开启#r#r#Y装备：#o110000 #o110000 #o110000 #r#Y觉醒技：#n   未觉醒#r#cA49BC8金:50 木: 0 水: 0 火: 0 土:50#r","iType":3920,"equip":({}),"iSpecial":0,])
+   
+   
+ 
+===exe sql=== : INSERT INTO cbg_equip (game_ordersn, equip_name, server_id, grouth_rate, born_xue, born_gong, born_fa, born_su, born_chan, detail_url) VALUE ('120900M335','北冥龙君',116,'1.653','54','406','0','166','0','http://xy2.cbg.163.com/cgi-bin/equipquery.py?act=buy_show_by_ordersn&server_id=116&ordersn=120900M335') ON DUPLICATE KEY UPDATE game_ordersn='120900M335',equip_name='北冥龙君',server_id=116,grouth_rate='1.653',born_xue='54',born_gong='406',born_fa='0',born_su='166',born_chan='0',detail_url='http://xy2.cbg.163.com/cgi-bin/equipquery.py?act=buy_show_by_ordersn&server_id=116&ordersn=120900M335'
+
+
+
+
+
+
+http://xy2-android2.cbg.163.com/cbg-center/query.py?page=100&orderby=selling_time+DESC&equip_type=103920&platform=android&app_version=2.0.8&need_check_license=1&sdk_version=25&device_name=One+S&app_version_code=2080&os_version=7.1.2&package_name=com.netease.xy2cbg&os_name=ville
